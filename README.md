@@ -1,3 +1,38 @@
-# smart-contracts
+# What is OiX Global Exchange project?
 
-Oix. Global is the premier online Blockchain Exchange.
+**Open Investment Exchange** OiX is the platform that offers trading services for Securities tokens. In order to trade on this platform a token has to become compliant with regulatory guidelines of the country of their operation. This means that they even have to maintain a constant disclosure website post the ICO to ensure that all regulatory requirements are being met. 
+
+The platform is where the blockchain tokens go to be ready for the future regulations that are sure to be imposed on the tokens being offered. OiX has a highly experienced team lead by many banking, legal and securities experts. Most of them have a strong background in cryptocurrency and blockchain. Securities trading will of course be the main focus of the platform but there are strong offerings like **OiX Government Cloud** and **Ripple trading** app that take it beyond just an ICO Exchange. 
+
+## SECURITIES TRADING PLATFORM
+A resolute focus on regulations, compliance and disclosure makes this a concept of OiX a drastic improvement in the current flaws of the Blockchain ICO industry by integrating the regulations of IPO and the ease of blockchain public offerings.
+SECURITY
+One of the major achievements of OiX Exchange is the integration of Biometric security at all different levels of operations. For any user that wants to activate the biometric security there is biometric check at login and transaction level. At the backend, even the admin have to go through a biometric check to validate any action that they take. This makes track-back easy and the system more hack proof.  This will generate a level of trust in the OiX Exchange that is currently non-existent in rest of market.
+## USER EXPERIENCE (UX)
+OiX recognizes that buying blockchain tokens is not an easy venture with a level of technical sophistication that is missing among the masses. This is one of the reasons why we have kept the interface as easy to use as possible. Even our mobile app (releasing soon), has a simple interface with focus on clarity of navigation and instructions. Call-to-action buttons are clearly marked and prominent. 
+## RIPPLE TRADING
+One of the features that OiX is coming up with is the Ripple trading app. OiX believes that Ripple is the one that will go the distance and while it might be become as profitable as the other more volatile coins but it will be most widely accepted currencies in international banking transactions in days to come. 
+## TALENT POOL
+OiX has come up with the concept of OPEN – OiX Professional Exchange Network. This is a talent pool that any upcoming ICO can tap into. The OPEN platform will give blockchain advisors, team members, legal advisors, influencers and the promoters a platform to meet. This will have various levels of involvements – for instance one could be a simple registered Professional or one could be an OiX recommended Professional. 
+## What is an ISO?
+The idea behind ISO is a fairly simple one – accept the reality. The reality is that sooner than later the regulatory authorities across the globe are going to start regulating Blockchain tokens. The reality is that we will most probably be judged by the Howie Test and the reality is that most of us are coming up with securities tokens. In order to get listed on OiX platform a token will have to go the distance and become compliant securities just like in the real world.
+ISO is the Blockchain empowered equivalent of IPO. It has more stringent requirements than ICO but not quite as much as IPO. In the lack of a regulatory body the ISO goes as far as it is possible in an unregulated market to make sure that the companies offer as much information to the public as possible. ISO is there to ensure that investors are able to take more informed decision and the companies are able to get easy acceptance by regulators when regulations set in. 
+For most startups it is a big issue to come up with more capital. IPOs are extremely restrictive and costly and getting a bank loan based on an innovative idea is akin climbing the Everest. 
+ICOs have come under heavy scrutiny and the constantly popping news of ICO frauds have brought a cloud of doubt over the long term viability of the ICO process. 
+Governments across the world are formulating regulations for Blockchain tokens but the very nature of ICO, as it currently stands is erroneous. It encourages anonymity and opacity. IPO has certain features like independent audit, financial reporting and due diligence that are absent in an ICO. This is why we have proposed the new standard for going public via a blockchain token offering – **Initial Securities Offering**.
+The first premise of ISO is that it considers all tokens to be securities tokens. At this time the ISO standard does not support utilities token in any shape or form. The second premise of ISO is Transparency. Just like in the IPO process, ISO insists on standard disclosure.
+Our focus is both on the promoter and the investor. We would like the promoter to rest easy knowing that there is life beyond regulations. Likely, when the regulations do set in, the regulators would like to review all the procedures that were followed while taking the company public via a blockchain token sale. If a company take the ISO route instead of ICO, and follows all the set norms, the chances of them passing all the checkpoints put up by regulations will be very high.
+For instance, if a promoter maintains the record of all the investors (something we do with KYC on our platform for the promoters), they can give a detailed shareholder list to the regulators. Our disclosure policy also means that quarterly, half-yearly and annual ‘filings’ have been maintained. This might significantly reduce the fine that might be levied on promoters under upcoming regulations.
+For investors, the biggest challenge is to ascertain if the ICO is legit. In the case of an IPO there are multiple checks that the promoters have to go through before their securities get listed. ICOs, however, are a different story altogether. Most ICOs are built around a few keywords and a whitepaper. There is no actual analysis done by an independent party about the project viability and there is little by the way of actual KYC being done on the team that is promoting the Public issue.
+ISO addresses this weakness of ICOs. In order to get listed on OiX Platform, the promoters have to submit a business plan to the Exchange for viability study. They also have to go through an extensive KYC so that the investors know exactly who is it that they are backing. We hope this new standard for Blockchain token keeps growing in its adoption and adaptation.
+## OiX Team:
+Let us start with the education background of the team – the team has members educated at Chicago Booth, Penn Law, Harvard Law and Indian Institute of Management among others. As for their experience, they have worked at very responsible positions at McCann, JP MorganChase, Bank of America, PricewaterhouseCoopers among others. The team behind the platform consist of a team of highly trained cryptocurrency specialists. 
+
+## OiX In Conclusion
+The platform is exceptionally inventive and aimed at radically altering the world of Blockchain tokens with the new regulatory approach in their business model. 
+The many enhancements the company is claiming will ensue on the platform is said to be enough indication to show investors and consumers why a self-regulated approach, mixed with highly secure biometric approach is the only way to run a business of this nature. You can find out more about Oix at oix.li.
+You can visit the following:
+Website – https://www.oix.global 
+Whitepaper - https://oix.li/static/pdf/OiX-whitepaper.pdf
+Twitter - https://twitter.com/OiXGlobal
+Facebook - https://www.facebook.com/OiX.Global/
